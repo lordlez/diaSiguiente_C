@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649020963 source:d:\unlam\progra2022\tp1\ej15\diasiguiente\funciones.c
+	"header.h"
+
+1649020283 d:\unlam\progra2022\tp1\ej15\diasiguiente\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1649020924 source:d:\unlam\progra2022\tp1\ej15\diasiguiente\main.c
+	"header.h"
+
